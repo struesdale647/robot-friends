@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/struesdale647/robot-friends.git/static/css/main.855b99de.chunk.css",
+    "main.js": "/struesdale647/robot-friends.git/static/js/main.fa87c59f.chunk.js",
+    "main.js.map": "/struesdale647/robot-friends.git/static/js/main.fa87c59f.chunk.js.map",
+    "runtime-main.js": "/struesdale647/robot-friends.git/static/js/runtime-main.61f86275.js",
+    "runtime-main.js.map": "/struesdale647/robot-friends.git/static/js/runtime-main.61f86275.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/struesdale647/robot-friends.git/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.cab51068.chunk.js": "/struesdale647/robot-friends.git/static/js/2.cab51068.chunk.js",
+    "static/js/2.cab51068.chunk.js.map": "/struesdale647/robot-friends.git/static/js/2.cab51068.chunk.js.map",
+    "index.html": "/struesdale647/robot-friends.git/index.html",
+    "precache-manifest.3d35b8ef3f5e52b8af71aa01f690d396.js": "/struesdale647/robot-friends.git/precache-manifest.3d35b8ef3f5e52b8af71aa01f690d396.js",
+    "service-worker.js": "/struesdale647/robot-friends.git/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/struesdale647/robot-friends.git/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.855b99de.chunk.css.map": "/struesdale647/robot-friends.git/static/css/main.855b99de.chunk.css.map",
+    "static/js/2.cab51068.chunk.js.LICENSE.txt": "/struesdale647/robot-friends.git/static/js/2.cab51068.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/struesdale647/robot-friends.git/static/media/StarcraftNormal.296ffb10.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61f86275.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.cab51068.chunk.js",
+    "static/css/main.855b99de.chunk.css",
+    "static/js/main.fa87c59f.chunk.js"
+  ]
+}
