@@ -1,0 +1,40 @@
+@font-face {
+	font-family: 'StarcraftNormal';
+	font-style : normal;
+	font-weight: normal;
+	src        : local('StarcraftNormal'), url('StarcraftNormal.woff') format('woff');
+}
+
+@font-face {
+	font-family: 'Alien Robot Regular';
+	font-style : normal;
+	font-weight: normal;
+	src        : local('Alien Robot Regular'), url('Alien Robot.woff') format('woff');
+}
+
+body {
+	color: #555555;	
+}
+
+h1 {
+	font-family: 'StarcraftNormal';
+	font-weight: 200;
+	color      : #CCCCCC;
+	text-shadow: 2px 2px #111111;
+	font-family: 'StarcraftNormal';
+}
+
+h2 {
+	font-family: 'Alien Robot';
+	color      : #111111;
+}
+
+h3 {
+	font-family: 'Alien Robot';
+	color      : #111111;
+}
+
+p {
+	font-family: 'Alien Robot';
+	color      : #111111;
+}
